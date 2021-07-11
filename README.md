@@ -10,3 +10,8 @@ The vocal removed mp3 is split into chunks based on silence in between to get al
 the analysing and matching of the audio is done by fingerprinting based on [audfprint](https://github.com/dpwe/audfprint) i made a ~500mb database of fingerprints of all the osts, and now i iterate through the chunk folder and match every file 
 
 All i have to do now is export the results of each chunk characterized by its time stamp
+
+## info
+It takes the code atleast 1 hour to analyse a single episode so it will take me some days to generate a complete table of all 367+2 episodes. 
+
+Feel free to contact me by opening an issue here or on discord @PJ#1234
